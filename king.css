@@ -10,7 +10,7 @@ html,body{
   height: 100%;
   width: 100%;
   place-items: center;
-  background: linear-gradient(315deg, #ffffff 0%, #d7e1ec 74%);
+  background: linear-gradient(315deg, #a2bc0e 0%, #0b920d 74%);
 }
 .wrapper .button{
   display: inline-block;
@@ -62,8 +62,8 @@ html,body{
   color: #fff;
 }
 .wrapper .button span{
-  font-size: 20px;
-  font-weight: 500;
+  font-size: 12px;
+  font-weight: 400;
   line-height: 60px;
   margin-left: 10px;
   transition: all 0.3s ease-out;
